@@ -19,7 +19,7 @@ RECEIVER SIDE:
 
 ![Project Image](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/ReceiverEnd.jpg)
 
-Project Video Link : [![Video](https://drive.google.com/file/d/1AogX8oCroh_puaGHfiaCTgyNUxjqn3Af/view?usp=drivesdk)](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/BTP.mp4)
+Project Video Link : [![Video](https://drive.google.com/file/d/1AogX8oCroh_puaGHfiaCTgyNUxjqn3Af/view?usp=drivesdk)](https://drive.google.com/file/d/1Aa2_3-nHwf__IRAXLLYE0wAritepQV8B/view)
 
 
 
