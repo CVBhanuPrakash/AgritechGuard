@@ -9,6 +9,8 @@
 
 4.Furthermore, the system includes trespasser detection features and can promptly alert the user upon detecting unauthorized individuals on the premises.
 
+[PDF Link :] https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/BTP_3rd_Review.pdf)
+
 TRANSMITTER SIDE:
 
 ![Project Image](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/TransmitterEnd.jpg)
@@ -21,9 +23,8 @@ Project Video Link :
 
 [![Video](https://drive.google.com/file/d/1AogX8oCroh_puaGHfiaCTgyNUxjqn3Af/view?usp=drivesdk)](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/BTP.mp4)
 
-[PDF Link](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/BTP_3rd_Review.pdf)
 
-<iframe src="https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/BTP_3rd_Review.pdf" width="100%" height="500px"></iframe>
+
 
 
 
