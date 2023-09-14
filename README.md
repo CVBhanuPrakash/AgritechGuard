@@ -21,7 +21,8 @@ Project Video Link :
 
 [![Video](https://drive.google.com/file/d/1AogX8oCroh_puaGHfiaCTgyNUxjqn3Af/view?usp=drivesdk)](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/BTP.mp4)
 
-[embed]https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/BTP_3rd_Review.pdf[/embed]
+[Link Text](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/BTP_3rd_Review.pdf)
+
 
 
 
