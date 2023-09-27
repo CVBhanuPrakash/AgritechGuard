@@ -31,16 +31,8 @@ AgritechGuard represents an innovative agricultural monitoring solution crafted 
 
 ## Project Video
 
-- [Watch Project Video](https://drive.google.com/file/d/1AogX8oCroh_puaGHfiaCTgyNUxjqn3Af/view?usp=drivesdk)
+- [Watch Project Video]([https://drive.google.com/file/d/1AogX8oCroh_puaGHfiaCTgyNUxjqn3Af/view?usp=drivesdk](https://drive.google.com/file/d/1Aa2_3-nHwf__IRAXLLYE0wAritepQV8B/view?usp=sharing))
 
 This project represents the culmination of extensive research and development, combining IoT technology, sustainable energy solutions, and computer vision to optimize agricultural practices and enhance security in farming environments.
 In this updated code, I added padding to the containers to ensure proper spacing between the images, and I slightly reduced the max-width to 48% to account for padding and maintain a maximum of two images side by side,
 
-
-
-
-## Project Video
-
-- [Watch Project Video](https://drive.google.com/file/d/1AogX8oCroh_puaGHfiaCTgyNUxjqn3Af/view?usp=drivesdk)
-
-This project represents the culmination of extensive research and development, combining IoT technology, sustainable energy solutions, and computer vision to optimize agricultural practices and enhance security in farming environments.
