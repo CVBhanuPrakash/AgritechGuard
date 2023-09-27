@@ -18,11 +18,26 @@ AgritechGuard represents an innovative agricultural monitoring solution crafted 
 
 ## Project Images
 
-### Transmitter Side:
-![Transmitter Image](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/TransmitterEnd.jpg)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex: 1; max-width: 48%; padding: 1%;">
+    <h3>Transmitter Side:</h3>
+    <img src="https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/TransmitterEnd.jpg" style="max-width: 100%; height: auto;" alt="Transmitter Image">
+  </div>
+  <div style="flex: 1; max-width: 48%; padding: 1%;">
+    <h3>Receiver Side:</h3>
+    <img src="https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/ReceiverEnd.jpg" style="max-width: 100%; height: auto;" alt="Receiver Image">
+  </div>
+</div>
 
-### Receiver Side:
-![Receiver Image](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/ReceiverEnd.jpg)
+## Project Video
+
+- [Watch Project Video](https://drive.google.com/file/d/1AogX8oCroh_puaGHfiaCTgyNUxjqn3Af/view?usp=drivesdk)
+
+This project represents the culmination of extensive research and development, combining IoT technology, sustainable energy solutions, and computer vision to optimize agricultural practices and enhance security in farming environments.
+In this updated code, I added padding to the containers to ensure proper spacing between the images, and I slightly reduced the max-width to 48% to account for padding and maintain a maximum of two images side by side,
+
+
+
 
 ## Project Video
 
