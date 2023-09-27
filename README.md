@@ -1,26 +1,31 @@
-# B.Tech Thesis Project
+# AgritechGuard - B.Tech Thesis Project
 
-It is an innovative agricultural monitoring system that combines automated and manual irrigation functions, leveraging LoRa WAN technology to enable data transmission in remote, internet-deprived areas. Ensured continuous power supply through solar energy harvesting. Incorporated a security enhancement utilizing the YOLO v8 model, providing immediate notifications to users upon the detection of unauthorized trespassers.
+AgritechGuard represents an innovative agricultural monitoring solution crafted within the context of a B.Tech Thesis Project. It seamlessly integrates automated and manual irrigation capabilities, harnessing the power of LoRa WAN technology for data transmission, even in remote regions with limited internet access. Additionally, it incorporates computer vision to provide real-time alerts to farmers in the event of trespassers entering the field.
 
-[PDF Link :] (https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/BTP_3rd_Review.pdf)
+## Key Features
 
-TRANSMITTER SIDE:
+- **Automated and Manual Irrigation**: AgritechGuard offers both automated and manual irrigation capabilities, allowing precise control over watering for agricultural fields.
 
-![Project Image](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/TransmitterEnd.jpg)
+- **LoRa WAN Technology**: It utilizes LoRa WAN technology for data transmission, making it suitable for remote locations with limited internet connectivity [Even if no internet connection].
 
-RECEIVER SIDE:
+- **Solar Energy Harvesting**: The system ensures continuous operation by harvesting solar energy, guaranteeing a sustainable power supply, even during power outages.
 
-![Project Image](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/ReceiverEnd.jpg)
+- **Enhanced Security**: AgritechGuard incorporates the YOLO v8 model for trespasser detection. It sends immediate notifications to users upon the detection of unauthorized trespassers, enhancing security on the farm.
 
-Project Video Link : (https://drive.google.com/file/d/1AogX8oCroh_puaGHfiaCTgyNUxjqn3Af/view?usp=drivesdk)](https://drive.google.com/file/d/1Aa2_3-nHwf__IRAXLLYE0wAritepQV8B/view)
+## Project Documentation
 
+- [PDF Documentation](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/BTP_3rd_Review.pdf)
 
+## Project Images
 
+### Transmitter Side:
+![Transmitter Image](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/TransmitterEnd.jpg)
 
+### Receiver Side:
+![Receiver Image](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/ReceiverEnd.jpg)
 
+## Project Video
 
+- [Watch Project Video](https://drive.google.com/file/d/1AogX8oCroh_puaGHfiaCTgyNUxjqn3Af/view?usp=drivesdk)
 
-
-
-
-
+This project represents the culmination of extensive research and development, combining IoT technology, sustainable energy solutions, and computer vision to optimize agricultural practices and enhance security in farming environments.
