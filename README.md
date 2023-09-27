@@ -1,6 +1,6 @@
 # AgritechGuard - B.Tech Thesis Project
 
-AgritechGuard represents an innovative agricultural monitoring solution crafted within the context of a B.Tech Thesis Project. It seamlessly integrates automated and manual irrigation capabilities, harnessing the power of LoRa WAN technology for data transmission, even in remote regions with limited internet access. Additionally, it incorporates computer vision to provide real-time alerts to farmers in the event of trespassers entering the field.
+AgritechGuard represents an innovative agricultural monitoring solution developed in my B.Tech Project. It seamlessly integrates automated and manual irrigation capabilities, harnessing the power of LoRa WAN technology for data transmission, even in remote regions without internet access. Additionally, it incorporates computer vision to provide real-time alerts to farmers in the event of trespassers entering the field.
 
 ## Key Features
 
