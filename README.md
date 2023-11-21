@@ -1,6 +1,6 @@
 # AgritechGuard - B.Tech Thesis Project
 
-AgritechGuard represents an innovative agricultural monitoring solution developed in my B.Tech Project. It seamlessly integrates automated and manual irrigation capabilities, harnessing the power of LoRa WAN technology for data transmission, even in remote regions without internet access. Additionally, it incorporates computer vision to provide real-time alerts to farmers in the event of trespassers entering the field.
+Welcome to AgritechGuard, an innovative agricultural monitoring system developed as part of a B.Tech thesis project. This comprehensive solution seamlessly integrates automated and manual irrigation capabilities, harnessing the power of LoRa WAN technology for wireless data transmission, even in remote regions without internet access. AgritechGuard prioritizes sustainability by incorporating solar energy harvesting, ensuring continuous operation during power outages. Moreover, it enhances farm security through the integration of the YOLO v8 model for trespasser detection. It integrates real-time camera data transmission to the Thingspeak IoT platform, providing a robust solution for data storage and retrieval. This integration allows for instantaneous data updates and facilitates the use of the database for generating alerts in response to potential security threats or other critical events.
 
 ## Key Features
 
@@ -11,6 +11,10 @@ AgritechGuard represents an innovative agricultural monitoring solution develope
 - **Solar Energy Harvesting**: The system ensures continuous operation by harvesting solar energy, guaranteeing a sustainable power supply, even during power outages.
 
 - **Enhanced Security**: AgritechGuard incorporates the YOLO v8 model for trespasser detection. It sends immediate notifications to users upon the detection of unauthorized trespassers, enhancing security on the farm.
+  
+- **Database:** AgritechGuard integrates with ThingSpeak, a cloud-based platform for IoT applications. Upon detecting a trespasser using the YOLO v8 model, the system immediately logs relevant data, such as images or videos, to the ThingSpeak realtime database.
+
+- **Alerts:** Alerts can be sent through various channels, such as email, SMS, or push notifications to ensure that farmers are promptly informed about potential security threats.
 
 ## Project Documentation
 
