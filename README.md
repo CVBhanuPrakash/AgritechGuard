@@ -1,20 +1,40 @@
-# AgritechGuard - B.Tech Thesis Project
+# AgritechGuard - An Automated and Secure Farming Solution
 
-Welcome to AgritechGuard, an innovative agricultural monitoring system developed as part of a B.Tech thesis project. This comprehensive solution seamlessly integrates automated and manual irrigation capabilities, harnessing the power of LoRa WAN technology for wireless data transmission, even in remote regions without internet access. AgritechGuard prioritizes sustainability by incorporating solar energy harvesting, ensuring continuous operation during power outages. Moreover, it enhances farm security through the integration of the YOLO v8 model for trespasser detection. It integrates real-time camera data transmission to the Thingspeak IoT platform, providing a robust solution for data storage and retrieval. This integration allows for instantaneous data updates and facilitates the use of the database for generating alerts in response to potential security threats or other critical events.
+AgritechGuard is a smart farming solution designed to automate farm monitoring, irrigation, and enhance security using advanced technologies. This project aims to reduce the time farmers spend in the field by providing remote monitoring capabilities and automating irrigation processes.
 
-## Key Features
+## Features
 
-- **Automated and Manual Irrigation**: AgritechGuard offers both automated and manual irrigation capabilities, allowing precise control over watering for agricultural fields.
+- Automatic irrigation based on soil moisture levels.
+- Remote monitoring of temperature, humidity, and soil moisture.
+- Long-range wireless data transmission using LoRaWAN technology.
+- Security system using YOLO v8 for object detection.
+- Integration with ThingSpeak IOT database for data storage and retrieval.
 
-- **LoRa WAN Technology**: It utilizes LoRa WAN technology for data transmission, making it suitable for remote locations with limited internet connectivity [Even if no internet connection].
+## Components Used
 
-- **Solar Energy Harvesting**: The system ensures continuous operation by harvesting solar energy, guaranteeing a sustainable power supply, even during power outages.
+- 2 Arduino Uno
+- 2 Raspberry Pi3
+- DHT11 and soil moisture sensors
+- 2 LCD display with i2c module
+- Relay module with water pump control
+- LoRaWAN modules (Tx and Rx) for long-range data transmission
+- YOLO v8 model for object detection
+- Buzzer for security alerts
+- ThingSpeak Database
 
-- **Enhanced Security**: AgritechGuard incorporates the YOLO v8 model for trespasser detection. It sends immediate notifications to users upon the detection of unauthorized trespassers, enhancing security on the farm.
+## Softwares Used
   
-- **Database:** AgritechGuard integrates with ThingSpeak, a cloud-based platform for IoT applications. Upon detecting a trespasser using the YOLO v8 model, the system immediately logs relevant data, such as images or videos, to the ThingSpeak realtime database.
+- PyCharm IDE
+- Arduino IDE
+- Raspberry Pi Imager
+- Putty
+- VNC Viewer
+  
+### Prerequisites
 
-- **Alerts:** Alerts can be sent through various channels, such as email, SMS, or push notifications to ensure that farmers are promptly informed about potential security threats.
+- Arduino IDE for Embedded C programming.
+- Python environment with required libraries for YOLO v8.
+- Raspberry Pi setup with required dependencies.
 
 ## Project Documentation
 
