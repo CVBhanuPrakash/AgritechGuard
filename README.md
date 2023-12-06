@@ -42,48 +42,48 @@ AgritechGuard is a smart farming solution designed to automate farm monitoring, 
 
 ## Block Diagrams
 
-![image](https://github.com/CVBhanuPrakash/AgritechGuard/assets/94560350/023f4f4e-7833-4365-adbf-17a231f8aed9)
+### Work for 6th Semester
 
-![image](https://github.com/CVBhanuPrakash/AgritechGuard/assets/94560350/3d901fad-81a4-4dff-8331-cb72c5ec9823)
+![image](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/BD1.png)
+
+### Work for 7th Semester
+
+![image](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/BD2.png)
 
 ## Work Done
 
 ### IN 6th semester:
 
 - Implemented automatic irrigation system with remote monitoring.
-- 
 - Crafted LoRaWAN technology to transmit data over long ranges.
-- 
 - Solar energy harvesting is employed to ensure sustainable power supply.
 
 ### IN 7th semester:
 
 - Trespasser detection using computer vision and promptly send to ThingSpeak.
-- 
 - Implemented with Raspberry Pi 3.
-
 
 # Results
 
 ### System at Transmitter End
 
-![image](https://github.com/CVBhanuPrakash/AgritechGuard/assets/94560350/ca0c2965-4be8-4731-8dab-599251f9fe60)
+![image](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/Transmitter.jpg)
 
 ### System at Receiver End
 
-![image](https://github.com/CVBhanuPrakash/AgritechGuard/assets/94560350/a790154a-727b-4109-9744-ebc863d960c5)
+![image](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/Receiver.jpg)
 
 ### When no anomaly detected
 
-![image](https://github.com/CVBhanuPrakash/AgritechGuard/assets/94560350/444f0e87-48e2-4c57-adef-9b791a56af26)
+![image](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/No%20detection.jpg)
 
 ### When anomaly detected in consecutive frames
 
-![image](https://github.com/CVBhanuPrakash/AgritechGuard/assets/94560350/50cce8be-550b-4f5c-b24b-9717b6ce02ae)
+![image](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/Detected.jpg)
 
 ### Data being sent to ThingSpeak database and updating in Real-Time:
 
-![image](https://github.com/CVBhanuPrakash/AgritechGuard/assets/94560350/b2bc9451-208e-4f78-bda9-68173b77b4f5)
+![image](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/ThingSpeak.png)
 
 ## Challenges Faced
 
@@ -108,8 +108,7 @@ AgritechGuard is a smart farming solution designed to automate farm monitoring, 
 
 ## Project Documentation
 
-- [Project Documentation](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/images/BTP_3rd_Review.pdf)
-
+- [Project Final Report](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/BTP-B23PB01-Final.pdf)
 
 ## Project Video
 
