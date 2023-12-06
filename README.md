@@ -110,6 +110,9 @@ AgritechGuard is a smart farming solution designed to automate farm monitoring, 
 
 - [Project Final Report](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/BTP-B23PB01-Final.pdf)
 
+- [Project Final Slides](https://github.com/CVBhanuPrakash/AgritechGuard/blob/main/BTP-B23PB01-Final.pptx)
+
+
 ## Project Video
 
 - [Watch Project Video](https://drive.google.com/file/d/1Aa2_3-nHwf__IRAXLLYE0wAritepQV8B/view?usp=sharing)
